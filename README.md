@@ -42,6 +42,9 @@ This is a regular paragraph.
     <tr>
         <td>Foo</td>
     </tr>
+    <tr>
+        <td>Foo</td>
+    </tr>
 </table>
 
 This is another regular paragraph.
