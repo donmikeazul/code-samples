@@ -50,3 +50,5 @@ This is a regular paragraph.
 This is another regular paragraph.
 
 <code>A piece of computer code</code>
+
+<script src="https://gist.github.com/donmikeazul/f73b161bb5895964060d83c3a78a2488.js"></script>
